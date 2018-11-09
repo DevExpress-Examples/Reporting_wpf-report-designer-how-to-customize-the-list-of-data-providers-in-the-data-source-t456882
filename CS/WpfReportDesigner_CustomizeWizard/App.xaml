@@ -1,4 +1,4 @@
-﻿<Application x:Class="WpfReportDesigner_CustomizeWizard.App"
+<Application x:Class="WpfReportDesigner_CustomizeWizard.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:WpfReportDesigner_CustomizeWizard"
