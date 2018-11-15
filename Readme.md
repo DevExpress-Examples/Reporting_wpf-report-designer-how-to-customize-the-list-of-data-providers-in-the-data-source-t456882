@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/WpfReportDesigner_CustomizeWizard/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfReportDesigner_CustomizeWizard/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/WpfReportDesigner_CustomizeWizard/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfReportDesigner_CustomizeWizard/MainWindow.xaml.vb))
+* [MyWizardCustomizationService.cs](./CS/WpfReportDesigner_CustomizeWizard/MyWizardCustomizationService.cs) (VB: [MyWizardCustomizationService.vb](./VB/WpfReportDesigner_CustomizeWizard/MyWizardCustomizationService.vb))
+<!-- default file list end -->
 # WPF Report Designer - How to customize the list of data providers in the Data Source Wizard
 
 
